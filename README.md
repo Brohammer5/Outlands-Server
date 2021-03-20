@@ -9,6 +9,7 @@ There will not be alot of the server files due to issues, bypasses with plugins!
 
 ## Plugins
 -- Name ---
+
 AdminGUI-1.4.8
 	
 Holograms-2.13
