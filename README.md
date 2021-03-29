@@ -18,7 +18,8 @@ HubThat-10.1.184
 
 LuckPerms-Bukkit-5.3.0
 
-[AntiCheat[Not available to Issues]
+Medusa AntiCheat
+
 
 Multiverse-Core-4.2.2
 
